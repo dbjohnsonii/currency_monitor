@@ -1,0 +1,10 @@
+The purpose of this project was simple, extract currency data from a website in order to build a database.
+At the time of the creation of this project the team I am working on uses static currency files that would 
+otherwise have to be linked with Vlookups in Excel.I figured if we could combine our international transaction data 
+with a dynamic database that can average by month based on a daily aggregation method we'd have a constant data source
+as well as a useful currency tracker. 
+
+The infomration used during this process is applied to separate proprietary processes that can't be shared.
+This is because companies take this type of stuff very seriously, nevertheless this portion of the project
+was an idea I'd be trying to hatch in my spare time in order to monitor currencies and oil for personal 
+projects of mine, it's now useful for some work projects too.
